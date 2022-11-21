@@ -1,6 +1,5 @@
-package com.dit.spring.micro.beer.web.model;
+package com.dit.spring.msscbeerservice.web.model;
 
-import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
 

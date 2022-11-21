@@ -1,4 +1,4 @@
-package com.dit.spring.micro.beer;
+package com.dit.spring.msscbeerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

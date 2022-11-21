@@ -1,4 +1,4 @@
-package com.dit.spring.micro.beer.web.model;
+package com.dit.spring.msscbeerservice.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

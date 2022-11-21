@@ -1,6 +1,6 @@
-package com.dit.spring.micro.beer.web.controller;
+package com.dit.spring.msscbeerservice.web.controller;
 
-import com.dit.spring.micro.beer.web.model.BeerDto;
+import com.dit.spring.msscbeerservice.web.model.BeerDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
